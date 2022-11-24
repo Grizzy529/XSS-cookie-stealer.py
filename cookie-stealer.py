@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # POC for cookie stealing through XSS
 # Should work with:
 # <script>
