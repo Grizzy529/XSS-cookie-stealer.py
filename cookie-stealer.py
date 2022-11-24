@@ -7,6 +7,7 @@
 # </script>
 
 # Written by Ahmed Shawky @lnxg33k
+# Recreate by grizzy529
 
 from http.server import BaseHTTPRequestHandler, HTTPServer
 from urllib.parse import urlparse, parse_qs
